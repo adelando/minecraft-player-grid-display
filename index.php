@@ -1,3 +1,5 @@
+/* Credit to Adelando 2023 - https://github.com/adelando/minecraft-player-grid-display */
+
 <!DOCTYPE html>
 <html>
 <head>
